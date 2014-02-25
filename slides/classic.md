@@ -11,4 +11,4 @@ process.stdin.on('data', function(buf) {
     console.log(buf);
 });
 ```
-<!-- .element: class="fragment" data-fragment-index="1" -->
+<!-- .element: class="fragment javascript" data-fragment-index="1" -->

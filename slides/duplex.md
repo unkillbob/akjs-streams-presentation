@@ -9,4 +9,4 @@ var client = net.connect({ port: 8124 }, function() {
     // ...
 });
 ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment javascript" -->

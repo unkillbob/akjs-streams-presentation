@@ -5,6 +5,6 @@
 
 ```
 var zlib = require('zlib');
-var gzip = zlib.createGzip(); // Readable/Writable transform stream
+var gzip = zlib.createGzip(); // readable & writable
 ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment javascript" -->

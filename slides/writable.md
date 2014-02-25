@@ -6,9 +6,11 @@
 ```
 process.stdout
 ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment javascript" -->
 
 ```
-fs.createWriteStream('/path/to/file.txt', { encoding: 'utf8' })
+fs.createWriteStream('/path/to/file.txt', {
+    encoding: 'utf8'
+})
 ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment javascript" -->

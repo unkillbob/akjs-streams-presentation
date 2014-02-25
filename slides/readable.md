@@ -6,9 +6,11 @@
 ```
 process.stdin
 ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment javascript" -->
 
 ```
-fs.createReadStream('/path/to/file.txt', { encoding: 'utf8' })
+fs.createReadStream('/path/to/file.txt', {
+    encoding: 'utf8'
+})
 ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment javascript" -->
