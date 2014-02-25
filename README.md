@@ -10,4 +10,5 @@ Credits & Inspiration
 ---------------------
 
 - [@substack](https://twitter.com/substack)'s [Stream Handbook](https://github.com/substack/stream-handbook)
+- The interactive [Stream Adventure](http://nodeschool.io/#stream-adventure) at [http://nodeschool.io/](http://nodeschool.io/)
 - [@markdalgleish](https://twitter.com/markdalgleish)'s amazing [Build Wars](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt) deck
