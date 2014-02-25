@@ -7,6 +7,7 @@
     "production-line.md",
 
     "nodejs-streams.md",
+    "5types.md",
     "readable.md",
     "writable.md",
     "transform.md",
