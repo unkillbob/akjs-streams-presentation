@@ -1,16 +1,6 @@
-## 5 types
+# 5 types
 
-### Readable
-<!-- .element: class="fragment" -->
+<br/>
 
-### Writable
-<!-- .element: class="fragment" -->
-
-### Transform
-<!-- .element: class="fragment" -->
-
-### Duplex
-<!-- .element: class="fragment" -->
-
-### "Classic"
+### Readable, Writable, Transform, Duplex, "Classic"
 <!-- .element: class="fragment" -->
