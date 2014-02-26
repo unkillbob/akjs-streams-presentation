@@ -1,11 +1,16 @@
 [
     "index.md",
-
     "what.md",
     "doug-mcilroy.md",
     "wiki-defn.md",
     "production-line.md",
-
+    "why.md",
+    "encourages.md",
+    "break-it-down.md",
+    "performance.md",
+    "http-upload-before.md",
+    "http-upload-after.md",
+    "parallelism.md",
     "nodejs-streams.md",
     "5types.md",
     "readable.md",
