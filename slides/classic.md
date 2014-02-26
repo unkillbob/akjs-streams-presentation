@@ -3,8 +3,7 @@
 ### Old interface from Node 0.4
 <!-- .element: class="fragment" data-fragment-index="0" -->
 
-#### Triggered whenever a stream has a `data` listener registered
-<!-- .element: class="fragment" data-fragment-index="1" -->
+<br/>
 
 ```
 process.stdin.on('data', function(buf) {
@@ -12,3 +11,6 @@ process.stdin.on('data', function(buf) {
 });
 ```
 <!-- .element: class="fragment javascript" data-fragment-index="1" -->
+
+#### Triggered whenever a stream has a `data` listener registered
+<!-- .element: class="fragment" data-fragment-index="1" -->
