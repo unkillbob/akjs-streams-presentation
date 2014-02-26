@@ -17,5 +17,22 @@
     "writable.md",
     "transform.md",
     "duplex.md",
-    "classic.md"
+    "classic.md",
+    "how.md",
+    "pipes.md",
+    "pipe-usage.md",
+    "modules.md",
+    "from.md",
+    "through.md",
+    "map-stream.md",
+    "concat-stream.md",
+    "highlandjs.md",
+    "learn.md",
+    {
+        "filename": "stream-adventure.html",
+        "attr": {
+            "data-background": "rgb(88,20,94)"
+        }
+    },
+    "handbook.md"
 ]
