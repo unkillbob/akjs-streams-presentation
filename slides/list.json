@@ -31,7 +31,7 @@
     "highlandjs.md",
     "learn.md",
     {
-        "filename": "stream-adventure.html",
+        "filename": "stream-adventure.md",
         "attr": {
             "data-background": "rgb(88,20,94)"
         }
