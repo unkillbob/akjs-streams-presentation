@@ -37,6 +37,7 @@
         }
     },
     "handbook.md",
+    "streams-api.md",
     "gulpjs.md",
     "gulp-setup.md",
     "gulp-task.md",
