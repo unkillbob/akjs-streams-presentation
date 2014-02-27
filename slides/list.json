@@ -45,5 +45,8 @@
     "gulp-src.md",
     "gulp-dest.md",
     "gulp-plugins.md",
-    "gulp-all.md"
+    "gulp-all.md",
+    "gulpjs-site.md",
+    "credits.md",
+    "work-with-me.md"
 ]
