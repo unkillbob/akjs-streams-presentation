@@ -2,10 +2,18 @@
     font-size: .75em;
 }
 
-#nodeschool-logo {
+#nodeschool-logo,
+#gulp-logo {
     background: none;
     border: none;
+    box-shadow: none;
+}
+
+#nodeschool-logo {
     width: 551px;
     height: 145px;
-    box-shadow: none;
+}
+
+#gulp-logo {
+    max-height: 55%
 }

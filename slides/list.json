@@ -36,5 +36,13 @@
             "data-background": "rgb(88,20,94)"
         }
     },
-    "handbook.md"
+    "handbook.md",
+    "gulpjs.md",
+    "gulp-setup.md",
+    "gulp-task.md",
+    "gulp-watch.md",
+    "gulp-src.md",
+    "gulp-dest.md",
+    "gulp-plugins.md",
+    "gulp-all.md"
 ]
