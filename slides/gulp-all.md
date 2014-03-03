@@ -1,17 +1,23 @@
-## Putting it all together...
+## gulpfile.js
 
 <br/>
 
 ```
-gulp.task('scripts', function() {
-    return gulp.src('./scripts/**/*.js')
-        .pipe(uglify())
-        .pipe(concat('all.js'))
-        .pipe(gulp.dest('./dist'));
-});
-
-gulp.task('default', ['scripts'], function() {
-    gulp.watch('./scripts/**/*.js', ['scripts']);
-});
+var gulp = require('gulp'),
+    jshint = require('gulp-jshint'),
+    uglify = require('gulp-uglify'),
+    concat = require('gulp-concat'),
 ```
-<!-- .element: class="javascript" -->
+<!-- .element: class="fragment javascript" -->
+
+```
+    through = require('through'),
+    map = require('map-stream'),
+```
+<!-- .element: class="fragment javascript" -->
+
+```
+    growl = require('growl'),
+    // ...
+```
+<!-- .element: class="fragment javascript" -->
