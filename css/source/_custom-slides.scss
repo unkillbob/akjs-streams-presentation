@@ -1,5 +1,9 @@
-#nodeschool-logo,
 #gulp-logo {
+    max-height: 55%;
+}
+
+#gulp-logo,
+#nodeschool-logo {
     background: none;
     border: none;
     box-shadow: none;
@@ -16,8 +20,4 @@
 
 #adventure-link {
     color: rgb(250,200,120);
-}
-
-#gulp-logo {
-    max-height: 55%
 }

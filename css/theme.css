@@ -138,8 +138,11 @@ body {
 .reveal pre {
   font-size: .75em; }
 
-#nodeschool-logo,
 #gulp-logo {
+  max-height: 55%; }
+
+#gulp-logo,
+#nodeschool-logo {
   background: none;
   border: none;
   box-shadow: none; }
@@ -153,6 +156,3 @@ body {
 
 #adventure-link {
   color: #fac878; }
-
-#gulp-logo {
-  max-height: 55%; }
