@@ -156,3 +156,7 @@ body {
 
 #adventure-link {
   color: #fac878; }
+
+.reveal [data-title-slide] h1,
+.reveal [data-title-slide] h2 {
+  color: #E9E0D1; }

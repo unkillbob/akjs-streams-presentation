@@ -4,14 +4,31 @@
     "doug-mcilroy.md",
     "wiki-defn.md",
     "production-line.md",
-    "why.md",
+    {
+        "filename": "why.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
     "encourages.md",
     "break-it-down.md",
     "performance.md",
-    "http-upload-before.md",
+    {
+        "filename": "http-upload-before.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
     "parallelism.md",
     "http-upload-after.md",
-    "require-stream.md",
+    {
+        "filename": "require-stream.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
     "nodejs-streams.md",
     "5types.md",
     "readable.md",
@@ -19,30 +36,63 @@
     "transform.md",
     "duplex.md",
     "classic.md",
-    "how.md",
+    {
+        "filename": "how.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
     "reading.md",
-    "writing.md",
+    {
+        "filename": "writing.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
     "pipes.md",
-    "pipe-usage.md",
+    {
+        "filename": "pipe-usage.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
     "modules.md",
     "from.md",
     "through.md",
     "map-stream.md",
     "concat-stream.md",
     "highlandjs.md",
-    "when-to-use.md",
+    {
+        "filename": "when-to-use.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
     "http.md",
     "io.md",
     "large-files.md",
     "control-flow.md",
-    "anything.md",
+    {
+        "filename": "anything.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
     "gulpjs.md",
     "gulp-benefits.md",
     "gulp-plugins.md",
     "gulp-setup.md",
     "gulp-all.md",
     "gulp-all2.md",
-    "learn.md",
+    {
+        "filename": "learn.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
     {
         "filename": "stream-adventure.md",
         "attr": {
