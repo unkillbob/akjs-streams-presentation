@@ -1,9 +1,9 @@
 ## Introduced in v0.4
 
-<br/>
-
 ### Great! But...
 <!-- .element: class="fragment" -->
+
+<br/>
 
 #### data: coming ready or not!
 <!-- .element: class="fragment" -->
