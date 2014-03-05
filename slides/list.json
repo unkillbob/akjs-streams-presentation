@@ -1,9 +1,20 @@
 [
     "index.md",
-    "what.md",
+    {
+        "filename": "what.md",
+        "attr": {
+            "data-background": "../images/stream-painting.jpg"
+        }
+    },
     "doug-mcilroy.md",
     "wiki-defn.md",
-    "production-line.md",
+    {
+        "filename": "production-line.md",
+        "attr": {
+            "id": "production-line",
+            "data-background": "../images/donuts.gif"
+        }
+    },
     {
         "filename": "why.md",
         "attr": {
@@ -12,7 +23,12 @@
         }
     },
     "encourages.md",
-    "break-it-down.md",
+    {
+        "filename": "break-it-down.md",
+        "attr": {
+            "data-background": "../images/breakdancing.gif"
+        }
+    },
     "performance.md",
     {
         "filename": "http-upload-before.md",
@@ -20,7 +36,13 @@
             "data-background": "#A79B83"
         }
     },
-    "parallelism.md",
+    {
+        "filename": "parallelism.md",
+        "attr": {
+            "id": "parallelism",
+            "data-background": "../images/parallel-dance.gif"
+        }
+    },
     "http-upload-after.md",
     {
         "filename": "require-stream.md",
@@ -50,7 +72,14 @@
             "data-background": "#A79B83"
         }
     },
-    "pipes.md",
+    {
+        "filename": "pipes.md",
+        "attr": {
+            "data-background-color": "rgb(92,148,252)",
+            "data-background": "../images/super-mario.gif",
+            "data-background-size": "80%"
+        }
+    },
     {
         "filename": "pipe-usage.md",
         "attr": {
@@ -103,5 +132,6 @@
     "streams-api.md",
     "gulpjs-site.md",
     "build-wars.md",
+    "image-credits.md",
     "work-with-me.md"
 ]

@@ -1,3 +1,11 @@
+#production-line {
+    top: -50% !important;
+}
+
+#parallelism h1 {
+    color: #E9E0D1;
+}
+
 #gulp-logo {
     max-height: 55%;
 }
@@ -28,6 +36,12 @@
         h1,
         h2 {
             color: #E9E0D1;
+        }
+    }
+
+    .slide-background.present {
+        &[data-background-hash*="../images/stream-painting.jpg"] {
+            opacity: 0.5;
         }
     }
 }

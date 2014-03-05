@@ -138,6 +138,12 @@ body {
 .reveal pre {
   font-size: .75em; }
 
+#production-line {
+  top: -50% !important; }
+
+#parallelism h1 {
+  color: #E9E0D1; }
+
 #gulp-logo {
   max-height: 55%; }
 
@@ -160,3 +166,5 @@ body {
 .reveal [data-title-slide] h1,
 .reveal [data-title-slide] h2 {
   color: #E9E0D1; }
+.reveal .slide-background.present[data-background-hash*="../images/stream-painting.jpg"] {
+  opacity: 0.5; }
