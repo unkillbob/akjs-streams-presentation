@@ -87,7 +87,13 @@
             "data-background": "#A79B83"
         }
     },
-    "modules.md",
+    {
+        "filename": "modules.md",
+        "attr": {
+            "data-background": "../images/ball-pit.gif",
+            "data-dark-background": true
+        }
+    },
     "from.md",
     "through.md",
     "map-stream.md",
@@ -107,7 +113,10 @@
     {
         "filename": "anything.md",
         "attr": {
-            "data-background": "#A79B83"
+            "data-background-color": "black",
+            "data-background": "../images/mind_blown.gif",
+            "data-background-size": "80%",
+            "data-dark-background": true
         }
     },
     "gulpjs.md",
