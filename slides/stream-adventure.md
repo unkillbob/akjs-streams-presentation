@@ -1,4 +1,4 @@
-# [![http://nodeschool.io/](../images/nodeschool.png)<!--.element: id="nodeschool-logo"-->](http://nodeschool.io/)
+# [![http://nodeschool.io/](images/nodeschool.png)<!--.element: id="nodeschool-logo"-->](http://nodeschool.io/)
 
 ## Go on a Stream Adventure!
 <!--.element: id="stream-adventure"-->

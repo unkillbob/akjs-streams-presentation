@@ -38,7 +38,7 @@
     }
 
     .slide-background.present {
-        &[data-background-hash*="../images/stream-painting.jpg"] {
+        &[data-background-hash*="images/stream-painting.jpg"] {
             opacity: 0.5;
         }
     }
