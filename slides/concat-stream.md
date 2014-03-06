@@ -1,5 +1,7 @@
 # concat-stream
 
+### Concatenate stream data
+
 <br/>
 
 ```
@@ -11,4 +13,4 @@ var gatherData = concat(function(allTheDatas) {
 
 readable.pipe(gatherData);
 ```
-<!-- .element: class="javascript" -->
+<!-- .element: class="fragment javascript" -->

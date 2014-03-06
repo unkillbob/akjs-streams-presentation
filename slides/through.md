@@ -1,5 +1,7 @@
 # through
 
+### Synchronous transform streams
+
 <br/>
 
 ```
@@ -13,4 +15,4 @@ var transform = through(function write(data) {
 
 readable.pipe(transform).pipe(writable);
 ```
-<!-- .element: class="javascript" -->
+<!-- .element: class="fragment javascript" -->

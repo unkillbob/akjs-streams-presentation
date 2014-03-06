@@ -1,5 +1,7 @@
 # map-stream
 
+### Asynchronous transform streams
+
 <br/>
 
 ```
@@ -16,4 +18,4 @@ var transform = map(function(data, callback) {
 
 readable.pipe(transform).pipe(writable);
 ```
-<!-- .element: class="javascript" -->
+<!-- .element: class="fragment javascript" -->

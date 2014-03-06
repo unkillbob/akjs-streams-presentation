@@ -1,5 +1,7 @@
 # from
 
+### Easily create readable streams
+
 <br/>
 
 ```
@@ -15,4 +17,4 @@ var readData = from(function getChunk(count, next) {
 
 readData.pipe(writable);
 ```
-<!-- .element: class="javascript" -->
+<!-- .element: class="fragment javascript" -->
