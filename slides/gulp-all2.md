@@ -29,7 +29,7 @@ gulp.task('scripts', ['lint'], function(done) {
 
 ```
 gulp.task('default', ['lint', 'test'], function() {
-    gulp.watch('{scripts,tests}/**/*.js', ['lint', 'test']);
+    gulp.watch('{scripts,tests}/**', ['lint', 'test']);
 });
 ```
 <!-- .element: class="fragment javascript" -->
