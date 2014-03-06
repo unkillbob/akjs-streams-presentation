@@ -141,9 +141,6 @@ body {
 #production-line {
   top: -50% !important; }
 
-#parallelism h1 {
-  color: #E9E0D1; }
-
 #gulp-logo {
   max-height: 55%; }
 
@@ -164,7 +161,10 @@ body {
   color: #fac878; }
 
 .reveal [data-title-slide] h1,
-.reveal [data-title-slide] h2 {
-  color: #E9E0D1; }
+.reveal [data-title-slide] h2,
+.reveal [data-dark-background] h1,
+.reveal [data-dark-background] h2 {
+  color: #e9e0d1;
+  text-shadow: 3px 3px 3px #070001; }
 .reveal .slide-background.present[data-background-hash*="../images/stream-painting.jpg"] {
   opacity: 0.5; }

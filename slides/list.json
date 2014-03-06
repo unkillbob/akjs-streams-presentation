@@ -26,7 +26,8 @@
     {
         "filename": "break-it-down.md",
         "attr": {
-            "data-background": "../images/breakdancing.gif"
+            "data-background": "../images/breakdancing.gif",
+            "data-dark-background": true
         }
     },
     "performance.md",
@@ -39,8 +40,8 @@
     {
         "filename": "parallelism.md",
         "attr": {
-            "id": "parallelism",
-            "data-background": "../images/parallel-dance.gif"
+            "data-background": "../images/parallel-dance.gif",
+            "data-dark-background": true
         }
     },
     "http-upload-after.md",

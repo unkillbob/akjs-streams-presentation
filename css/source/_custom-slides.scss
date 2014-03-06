@@ -2,10 +2,6 @@
     top: -50% !important;
 }
 
-#parallelism h1 {
-    color: #E9E0D1;
-}
-
 #gulp-logo {
     max-height: 55%;
 }
@@ -32,10 +28,12 @@
 
 .reveal {
 
-    [data-title-slide] {
+    [data-title-slide],
+    [data-dark-background] {
         h1,
         h2 {
-            color: #E9E0D1;
+            color: $backgroundColor;
+            text-shadow: 3px 3px 3px $headingColor;
         }
     }
 
