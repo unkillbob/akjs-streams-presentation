@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+.sass-cache
+
+css/source/
+templates/
+.jshintrc
+package.json
+Gruntfile.coffee
+README.md

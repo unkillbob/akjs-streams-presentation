@@ -1,0 +1,147 @@
+[
+    "index.md",
+    {
+        "filename": "what.md",
+        "attr": {
+            "data-background": "../images/stream-painting.jpg"
+        }
+    },
+    "doug-mcilroy.md",
+    "wiki-defn.md",
+    {
+        "filename": "production-line.md",
+        "attr": {
+            "id": "production-line",
+            "data-background": "../images/donuts.gif"
+        }
+    },
+    {
+        "filename": "why.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
+    "encourages.md",
+    {
+        "filename": "break-it-down.md",
+        "attr": {
+            "data-background": "../images/breakdancing.gif",
+            "data-dark-background": true
+        }
+    },
+    "performance.md",
+    {
+        "filename": "http-upload-before.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
+    {
+        "filename": "parallelism.md",
+        "attr": {
+            "data-background": "../images/parallel-dance.gif",
+            "data-dark-background": true
+        }
+    },
+    "http-upload-after.md",
+    {
+        "filename": "require-stream.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
+    "nodejs-streams.md",
+    "5types.md",
+    "readable.md",
+    "writable.md",
+    "transform.md",
+    "duplex.md",
+    "classic.md",
+    {
+        "filename": "how.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
+    "reading.md",
+    {
+        "filename": "writing.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
+    {
+        "filename": "pipes.md",
+        "attr": {
+            "data-background-color": "rgb(92,148,252)",
+            "data-background": "../images/super-mario.gif",
+            "data-background-size": "80%"
+        }
+    },
+    {
+        "filename": "pipe-usage.md",
+        "attr": {
+            "data-background": "#A79B83"
+        }
+    },
+    {
+        "filename": "modules.md",
+        "attr": {
+            "data-background": "../images/ball-pit.gif",
+            "data-dark-background": true
+        }
+    },
+    "from.md",
+    "through.md",
+    "map-stream.md",
+    "concat-stream.md",
+    "highlandjs.md",
+    {
+        "filename": "when-to-use.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
+    "http.md",
+    "io.md",
+    "large-files.md",
+    "control-flow.md",
+    {
+        "filename": "anything.md",
+        "attr": {
+            "data-background-color": "black",
+            "data-background": "../images/mind_blown.gif",
+            "data-background-size": "80%",
+            "data-dark-background": true
+        }
+    },
+    "gulpjs.md",
+    "gulp-benefits.md",
+    "gulp-plugins.md",
+    "gulp-setup.md",
+    "gulp-all.md",
+    "gulp-all2.md",
+    {
+        "filename": "learn.md",
+        "attr": {
+            "data-background": "#33605A",
+            "data-title-slide": true
+        }
+    },
+    {
+        "filename": "stream-adventure.md",
+        "attr": {
+            "data-background": "rgb(88,20,94)"
+        }
+    },
+    "handbook.md",
+    "streams-api.md",
+    "gulpjs-site.md",
+    "build-wars.md",
+    "image-credits.md",
+    "work-with-me.md"
+]
